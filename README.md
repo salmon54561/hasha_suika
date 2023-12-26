@@ -2,6 +2,7 @@
 ## 概要
 Vtuberグループ「はしゃぷろ」のファンアートとして制作したスイカゲームのパロディゲームです。  
 [はしゃぷろ公式ツイッター](https://twitter.com/hashagu_pro){:target="_blank"}
+<a href="https://twitter.com/hashagu_pro" target="_blank">はしゃぷろ公式ツイッター</a>
 ## 公開ページ
 https://salmon54561.github.io/hasha_suika/{:target="_blank"}
 ## 注意事項
